@@ -3,4 +3,4 @@
 
 SCREEN1、MSX1モード
 
-掲載バージョンのMSXPEN　https://msxpen.com/codes/-O9cA057dGWt2mtRItzs
+掲載バージョンのMSXPEN　https://msxpen.com/codes/-OQZz1kV6v0KvvCKUz_x
